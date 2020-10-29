@@ -1,0 +1,4 @@
+name = "BangMacro"
+uuid = "0c698853-ff94-4ce5-adf2-3f7f1e624f83"
+authors = ["Ian Ellison-Taylor <ian@ellison-taylor.com>"]
+version = "0.1.0"
